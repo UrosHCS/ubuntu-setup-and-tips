@@ -1,0 +1,18 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "gitlens.codeLens.enabled": false,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "files.autoSave": "onFocusChange",
+    "editor.minimap.enabled": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "workbench.colorTheme": "Material Theme High Contrast",
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "editor.fontSize": 16,
+    "window.zoomLevel": 0,
+    "breadcrumbs.enabled": true,
+    "editor.snippetSuggestions": "top",
+    "php.validate.executablePath": "/usr/bin/php7.2",
+    "explorer.openEditors.visible": 0,
+    "workbench.statusBar.feedback.visible": false
+}
