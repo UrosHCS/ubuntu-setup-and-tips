@@ -14,5 +14,11 @@
     "editor.snippetSuggestions": "top",
     "php.validate.executablePath": "/usr/bin/php7.2",
     "explorer.openEditors.visible": 0,
-    "workbench.statusBar.feedback.visible": false
+    "workbench.statusBar.feedback.visible": false,
+    "editor.scrollBeyondLastLine": false,
+    "cSpell.userWords": [
+        "repo",
+        "tensorflow",
+        "workspaces"
+    ]
 }
