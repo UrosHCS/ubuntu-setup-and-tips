@@ -23,3 +23,7 @@ sudo apt-get install cuda-10-0
 # https://developer.NVIDIA.com/cudnn
 
 sudo dpkg -i libcudnn*.deb
+
+# not sure if required, but maybe put this in ~/.zshrc
+export PATH=/usr/local/cuda/bin:$PATH
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda/extras/CUPTI/lib64
